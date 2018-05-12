@@ -1,0 +1,38 @@
+_repo: Beatrice-Boville-and-Other-Stories_33942
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ouida
+    aliases:
+    - De La Rame, Louisa
+    - De la Ramee, Louise
+    - De la Ramée, Louisa
+    - Ramée, Maria Louise
+    - De la Ramée, Louise
+    - Ramé, Marie Louise
+    - Uida
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '1204'
+    url: http://www.gutenberg.org/2009/agents/1204
+    wikipedia: http://en.wikipedia.org/wiki/Ouida
+description: ''
+gutenberg_issued: '2010-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction'
+tableOfContents: Beatrice Boville -- A linein the "Daily" -- Holly wreaths and rose
+  chains -- Silver chimes and golden fetters -- Slander and sillery -- Sir Galahad's
+  raid -- "Redeemed" -- Our wager; or, how the major lost and won -- Our country quarters.
+title: Beatrice Boville and Other Stories
+url: http://www.gutenberg.org/ebooks/33942
